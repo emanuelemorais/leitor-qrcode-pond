@@ -31,7 +31,7 @@ flutter pub get
 flutter run
 ```
 
-# Print log API
+## Print log API
 
 ![alt text](image.png)
 
