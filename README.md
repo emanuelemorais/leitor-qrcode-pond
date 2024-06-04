@@ -35,7 +35,5 @@ flutter run
 
 ![alt text](image.png)
 
-## Video
-
-https://drive.google.com/file/d/1Mnxz7uUNzomAxMvgwsv9wpuCxuqjMEQ8/view?usp=sharing
+## [Video](https://drive.google.com/file/d/1Mnxz7uUNzomAxMvgwsv9wpuCxuqjMEQ8)
 
