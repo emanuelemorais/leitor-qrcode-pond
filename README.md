@@ -31,6 +31,10 @@ flutter pub get
 flutter run
 ```
 
+# Print log API
+
+![alt text](image.png)
+
 ## Video
 
 https://drive.google.com/file/d/1Mnxz7uUNzomAxMvgwsv9wpuCxuqjMEQ8/view?usp=sharing
